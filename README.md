@@ -1,1 +1,69 @@
-IyDmuIXljY7ns7vpq5jmvZzliJvkuJrogIUgU291cmNlIE1hcAoKPiBWQyBIdW50ZXIgLyBTb3VyY2Ug5YaF6YOo5bel5YW3IOKAlCDkuIDnq5kgc291cmNlIOWIsOa4heWNjuezu+aVmeaOiOOAgeWQiOS9nOWNmuWjq+eUn+OAgeWOn+WniyBwYXBlciBQREbjgIIKCiMjIOmhueebrueugOS7iwoK5pys5bel5YW36Z2i5ZCRIFZDIOS7juS4muiAhe+8jOaVtOeQhua4heWNjuWkp+WtpiAxMCDkuKrpmaLns7vjgIEqKjUwKyDkvY3moLjlv4PmlZnmjogqKuOAgSoqNjArIOS9jeWQiOS9nOWNmuWjq+eUnyoqIOS4jiAqKjYwKyDlrrblhbPogZTliJvkuJrlhazlj7gqKuOAguaJgOacieiuuuaWhyBQREYg55u06ZO+IGFyWGl2IC8gSUVFRSAvIE5hdHVyZSDns7vlrpjmlrnmupDvvIwqKueCueWHu+WNs+i+vuWOn+aWhyoq44CCCgojIyMg5YyF5ZCr5YaF5a65CgotICoq56ysIDEg6YOo5YiGIMK3IOaVmeaOiOe0ouW8lSoq77ya5oyJ6Zmi57O744CB56CU56m25pa55ZCR44CBIuW3suWIm+S4miAvIOWtpuacr+S4uuS4uyIg5YiG57G7Ci0gKirnrKwgMiDpg6jliIYgwrcg5pWZ5o6I6K+m5oOFKirvvJrogZTns7vmlrnlvI/jgIHnoJTnqbbku6PooajkvZzjgIHnoJTnqbbmlrnlkJHvvIjlhbHkuIDlrabnlJ8gUERGIOmTvuaOpe+8iQotICoq56ysIDMg6YOo5YiGIMK3IOWNmuWjq+eUn+WQjeWNlSoq77ya6Leo6Zmi57O75rGH5oC777yM5q+P5L2N5a2m55Sf5oyC5Y6f5aeLIHBhcGVyIFBERgoKIyMjIOWPr+inhuWMlgoKLSAqKui1m+mBk+e9kee7nOWbvioq77yaOSDlpKfliY3msr/otZvpgZMg4oaSIDEwIOS4qumZouezuyDihpIgNTArIOaVmeaOiCDihpIgNjArIOWFrOWPuOeahCA0IOWxguW+hOWQkee7k+aehOWbvgotICoq5pa55ZCR54Ot5bqmIFRvcCAxMioq77ya5qiq5ZCR5p+x5Zu+Ci0gKirpmaLns7vliJvkuJrlr4bluqYqKu+8mua3seiTnT3lt7LliJvkuJogLyDlpKnok5095a2m5pyvCgojIyDphY3oibIKCuWNleiJsuiTnea3sea1heair+W6pu+8iOagoeW+vea3seiTnSDihpIg5Yaw6JOdIDYg6Zi277yJ77yM5oyJ6IqC54K55bGC57qn5YiH5o2i5rex5rWF77yM6YG/5YWN6Imy55u46L+H5p2C44CCCgojIyDlkK/liqgKCui/meaYr+S4gOS4que6r+mdmeaAgeermeeCue+8iEhUTUwgKyBDU1MgKyBKUyArIEVDaGFydHPvvInvvIzml6DlkI7nq6/jgIHml6DmnoTlu7rmraXpqqTjgIIKCiMjIyDmlrnlvI8gMSDCtyBQeXRob24g5ZCv5Yqo5pys5Zyw5pyN5Yqh5ZmoCgpgYGBiYXNoCmNkIHRzaW5naHVhLW1hcHBlcgpweXRob24zIC1tIGh0dHAuc2VydmVyIDgwOTkKIyDmtY/op4jlmajmiZPlvIAKb3BlbiBodHRwOi8vbG9jYWxob3N0OjgwOTkvdHNpbmdodWEtbWFwcGVyLmh0bWwKYGBgCgojIyMg5pa55byPIDIgwrcg55u05o6l5Y+M5Ye75omT5byACgrnm7TmjqXnlKjmtY/op4jlmajmiZPlvIAgYHRzaW5naHVhLW1hcHBlci5odG1sYCDljbPlj6/vvIhjaGFydHMg6YOo5YiG5Lmf6IO95q2j5bi45riy5p+T77yJ44CCCgojIyDnm67lvZXnu5PmnoQKCmBgYAp0c2luZ2h1YS1tYXBwZXIvCuKUnOKUgOKUgCB0c2luZ2h1YS1tYXBwZXIuaHRtbCAgICAgICMg6aaW6aG177yI5pWZ5o6I57Si5byVICsg6LWb6YGT572R57ucICsg5Y2a5aOr55Sf5ZCN5Y2V77yJCuKUnOKUgOKUgCBwcm9mZXNzb3IuaHRtbCAgICAgICAgICAgICMg5pWZ5o6I6K+m5oOF6aG1CuKUnOKUgOKUgCBSRUFETUUubWQK4pSc4pSA4pSAIGRhdGEvCuKUgiAgIOKUlOKUgOKUgCBwcm9mZXNzb3JzLmpzICAgICAgICAgIyDmlZnmjoggLyDljZrlo6vnlJ8gLyDpmaLns7sgLyDotZvpgZMg5pWw5o2uCuKUnOKUgOKUgCBhc3NldHMvCuKUgiAgIOKUnOKUgOKUgCBzdHlsZS5jc3MgICAgICAgICAgICAgIyDmtYXoibLoi7nmnpzpo47moLflvI8K4pSCICAg4pSc4pSA4pSAIGNoYXJ0cy5qcyAgICAgICAgICAgICAjIDMg5Liq5Zu+6KGo77yI6LWb6YGT572R44CB5pa55ZCR54Ot5bqm44CB6Zmi57O75a+G5bqm77yJCuKUgiAgIOKUlOKUgOKUgCBtYWluLmpzICAgICAgICAgICAgICAgIyDkuLvpobXkuqTkupLvvIjnrZvpgIkgLyDmkJzntKIgLyDmuLLmn5PvvIkK4pSU4pSA4pSAIF9zaGFyZWQvCiAgICDilJzilIDilIAganMvZWNoYXJ0cy5taW4uanMgICAgICMgRUNoYXJ0cyDlm77ooajlupMKICAgIOKUlOKUgOKUgCBmb250cy8gICAgICAgICAgICAgICAgIyBXb3JrU2FucyAvIEluc3RydW1lbnRTYW5zIC8gSUJNUGxleE1vbm8KYGBgCgojIyDmlbDmja7mnaXmupAKCi0gMyDku73lhoXpg6ggTWFwcGluZyDmiqXlkYrvvIgyMDI2LjYuMjkg57yW77yJCi0gSUlJUyDlrpjmlrkgSUNSQSAyMDI0IOaIkOaenOWQiOi+kQotIOa4heWNjuiHquWKqOWMluezuyAvIOaZuuiDveS6p+S4mueglOeptumZou+8iEFJUu+8iS8g6L2v5Lu25a2m6ZmiIOWFrOW8gOaWsOmXuwotIOWFrOW8gOWtpuacr+aWsOmXuyAvIGFyWGl2IOajgOe0oue7k+aenAoKIyMg5YWN6LSj5aOw5piOCgrmnKzlt6Xlhbfku4XnlKjkuo4gVkMg5YaF6YOo5oqV56CU5Y+C6ICD77yb6J6N6LWE6aKd44CB5Lyw5YC844CB5oyB6IKh562J5pWw5o2u5p2l6Ieq5YWs5byA5oql6YGT77yM5pe25pWI5Lul5a6Y5pa55oqr6Zyy5Li65YeG44CCCg==
+# 清华系高潜创业者 Source Map
+
+> VC Hunter / Source 内部工具 — 一站 source 到清华系教授、合作博士生、原始 paper PDF。
+
+## 项目简介
+
+本工具面向 VC 从业者，整理清华大学 10 个院系、**50+ 位核心教授**、**60+ 位合作博士生** 与 **60+ 家关联创业公司**。所有论文 PDF 直链 arXiv / IEEE / Nature 系官方源，**点击即达原文**。
+
+### 包含内容
+
+- **第 1 部分 · 教授索引**：按院系、研究方向、"已创业 / 学术为主" 分类
+- **第 2 部分 · 教授详情**：联系方式、研究代表作、研究方向（共一学生 PDF 链接）
+- **第 3 部分 · 博士生名单**：跨院系汇总，每位学生挂原始 paper PDF
+
+### 可视化
+
+- **赛道网络图**：9 大前沿赛道 → 10 个院系 → 50+ 教授 → 60+ 公司的 4 层径向结构图
+- **方向热度 Top 12**：横向柱图
+- **院系创业密度**：深蓝=已创业 / 天蓝=学术
+
+## 配色
+
+单色蓝深浅梯度（校徽深蓝 → 冰蓝 6 阶），按节点层级切换深浅，避免色相过杂。
+
+## 启动
+
+这是一个纯静态站点（HTML + CSS + JS + ECharts），无后端、无构建步骤。
+
+### 方式 1 · Python 启动本地服务器
+
+```bash
+cd tsinghua-mapper
+python3 -m http.server 8099
+# 浏览器打开
+open http://localhost:8099/tsinghua-mapper.html
+```
+
+### 方式 2 · 直接双击打开
+
+直接用浏览器打开 `tsinghua-mapper.html` 即可（charts 部分也能正常渲染）。
+
+## 目录结构
+
+```
+tsinghua-mapper/
+├── tsinghua-mapper.html      # 首页（教授索引 + 赛道网络 + 博士生名单）
+├── professor.html            # 教授详情页
+├── README.md
+├── data/
+│   └── professors.js         # 教授 / 博士生 / 院系 / 赛道 数据
+├── assets/
+│   ├── style.css             # 浅色苹果风样式
+│   ├── charts.js             # 3 个图表（赛道网、方向热度、院系密度）
+│   └── main.js               # 主页交互（筛选 / 搜索 / 渲染）
+└── _shared/
+    ├── js/echarts.min.js     # ECharts 图表库
+    └── fonts/                # WorkSans / InstrumentSans / IBMPlexMono
+```
+
+## 数据来源
+
+- 3 份内部 Mapping 报告（2026.6.29 编）
+- IIIS 官方 ICRA 2024 成果合辑
+- 清华自动化系 / 智能产业研究院（AIR）/ 软件学院 公开新闻
+- 公开学术新闻 / arXiv 检索结果
+
+## 免责声明
+
+本工具仅用于 VC 内部投研参考；融资额、估值、持股等数据来自公开报道，时效以官方披露为准。
